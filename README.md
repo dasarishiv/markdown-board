@@ -104,6 +104,10 @@ Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby f
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 
+```shell
 git remote add origin https://github.com/dasarishiv/markdown-board.git
+
 git branch -M main
+
 git push -u origin main
+```
